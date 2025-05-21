@@ -1,2 +1,2 @@
-# Spleef-Roblox
-Retrospective Repository for ROBLOX game "Spleef-Roblox"
+# Spleef Retrospective Repo
+Note: This repository serves as a retrospective showcase of a Roblox project I developed. It includes key code snippets, explanations, and design decisions, but does not contain the full project source code. This is because Roblox Studio doesn’t natively support version control systems like Git, and many game elements are built directly within the Studio environment. However, the snippets provided here aim to illustrate the core logic and implementation of important features.
